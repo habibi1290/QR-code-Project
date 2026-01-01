@@ -1,6 +1,7 @@
 ### Hi 
 
 This project is based on Laravel, DDEV, PayPal-Integration and QR-code package simplesoftwareIO.
+After filling out the form, you must pay via PayPal. Once the payment is completed, you will receive a confirmation email containing a QR code.
 
 # Documentation 
 PayPal-Integration: [PayPal-Integration](https://developer.paypal.com/docs/checkout/advanced/android/)
