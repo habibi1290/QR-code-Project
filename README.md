@@ -1,6 +1,6 @@
 ### Hi 
 
-This is small project based on Laravel, DDEV, PayPal-Integration and QR-code package (simplesoftwareIO).
+This is a small project based on Laravel, DDEV, PayPal-Integration and QR-code package (simplesoftwareIO).
 After filling out the form, you must pay via PayPal. Once the payment is completed, you will receive a confirmation email containing a QR code.
 
 # Documentation 
